@@ -1,20 +1,11 @@
-### Hi there 👋
+## Hi there 👋🏻👋🏼👋🏽👋🏾👋🏿
+
+### 🛠 I am a Tech Lead @ Velasca, from Milan, Italy 🇮🇹
+
+### Open-source enthusiast and proud author of [Sheriff](https://www.eslint-config-sheriff.dev/)!
+
+Here are some stats about me:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaPontrandolfo&show_icons=true&include_all_commits=true&hide_rank=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPontrandolfo&layout=compact)
-
-<!--
-**AndreaPontrandolfo/AndreaPontrandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
