@@ -1,8 +1,8 @@
-## Hi there 👋🏻👋🏼👋🏽👋🏾👋🏿
+### Hi there 👋🏻👋🏼👋🏽👋🏾👋🏿
 
-### 🛠 I am a Tech Lead @ Velasca, from Milan, Italy 🇮🇹
+🛠 I am a Tech Lead @ Velasca, from Milan, Italy 🇮🇹
 
-### Open-source enthusiast and proud author of [Sheriff](https://www.eslint-config-sheriff.dev/)!
+Open-source enthusiast and proud author of [Sheriff](https://www.eslint-config-sheriff.dev/)!
 
 Here are some stats about me:
 
