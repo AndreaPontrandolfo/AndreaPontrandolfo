@@ -1,4 +1,4 @@
-### Hi there 👋🏻👋🏼👋🏽👋🏾👋🏿
+### Hi there 👋🏻👋🏼👋🏽👋🏾👋🏿
 
 🛠 I am a Tech Lead @ Velasca, from Milan, Italy 🇮🇹
 
